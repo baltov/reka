@@ -1,9 +1,8 @@
-# Maritime Administration Leaflet Solver
-Листовки за курса на МА "Водач на малък кораб по Дунав"
+# Листовки за курса на МА "Водач на малък кораб по Дунав"
 
 This project provides a web and backend solution for processing leaflets issued by the Maritime Administration for examinations.
 
-**Note:** This application is **NOT** intended for captains of vessels up to 40 horsepower (40HP).
+**Note:** Листовките **НЕ СА** за курса Водач на кораб до 40БТ.
 
 ## How to Run
 
