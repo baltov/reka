@@ -39,4 +39,9 @@ Open your browser and navigate to:
 
 *Replace `localhost` with your actual IP address if the application is installed on a remote server.*
 
+Временно може да се ползва на:
+https://dub.sh/reka
+
+с username/pass: reka/reka
+
 ---
